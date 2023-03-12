@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124638770994",
+    "project_id": "guidest-526a2",
+    "storage_bucket": "guidest-526a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124638770994:android:a029058be396e20774492b",
+        "android_client_info": {
+          "package_name": "com.example.guidest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124638770994-p0f5bhu0ukc6309tatbpkj1mauhn942e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guidest",
+            "certificate_hash": "646fe6de5ed12e1b808e46926d1f0ff4ab4a5269"
+          }
+        },
+        {
+          "client_id": "124638770994-7qn072ld11uoroisfcr896sk1btvkgjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dKLCLFGjga0Cr82A8fq4T0t3mNts7lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124638770994-7qn072ld11uoroisfcr896sk1btvkgjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

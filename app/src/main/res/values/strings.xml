@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guidest</string>
+    <string name="strCrearCuenta"><u>Crear Cuenta</u></string>
+    <string name="strOlvidar"><u>Olvidé mi contraseña</u></string>
+    <string name="btnEmail"><u>email</u></string>
+    <string name="btnContraseña"><u>contraseña</u></string>
+
+</resources>
